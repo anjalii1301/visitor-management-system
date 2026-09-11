@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@example.com",
+      "password": "admin123"
+    }
+  ],
+  "visitors": [
+    {
+      "id": "1",
+      "name": "Rahul Sharma",
+      "phone": "9876543210",
+      "unit": "A-101",
+      "visitDate": "2026-09-12",
+      "status": "Pending"
+    },
+    {
+      "id": "2",
+      "name": "Priya Singh",
+      "phone": "9123456780",
+      "unit": "B-204",
+      "visitDate": "2026-09-13",
+      "status": "Approved"
+    },
+    {
+      "name": "Dev Solanki",
+      "phone": "9039804746",
+      "unit": "B-1010",
+      "visitDate": "2026-09-10",
+      "status": "Pending",
+      "id": "tbZGfD03p-Q"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
